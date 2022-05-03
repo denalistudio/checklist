@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "readme.md",
+            "file": "resources/alt-text.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "resources/alt-text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "75212afbb2b37df2",
   "lastOpenFiles": [
+    "resources/alt-text.md",
     "readme.md",
-    "Untitled.md",
-    "resources/alt-text.md"
+    "Untitled.md"
   ]
 }
