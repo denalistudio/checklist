@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "readme.md",
+            "file": "resources/twitter-cards.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "resources/twitter-cards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "75212afbb2b37df2",
   "lastOpenFiles": [
+    "resources/twitter-cards.md",
+    "checklist.md",
     "readme.md",
     "resources/open-graph.md",
     "resources/alt-text.md",
