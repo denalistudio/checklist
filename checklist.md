@@ -2,10 +2,18 @@
 
 An internal checklist we use to ensure quality for our clients
 
-- [ ] Make sure all images have appropriate alt text. [Learn more](resources/alt-text.md)
+- [ ] The DOCTYPE is correctly declared as `<!DOCTYPE html>` and is present on all pages.
+- [ ] A `<title>` tag is present on all pages.
+
+## head
+
+- [ ] Facebook Open Graph meta tags are present on all pages. [Learn how](resources/open-graph.md)
+- [ ] Twitter Cards meta tags are present on all pages. [Learn how](resources/twitter-cards.md)
+
+## optimisation
+
 - [ ] Test your website on PageSpeed Insights and score at least 90 (if possible). [PageSpeed Insights]([https://pagespeed.web.dev)
 
-## Head
+## accesibility
 
-- [ ] Make sure all pages have Facebook Open Graph meta tags. [Learn how](resources/open-graph.md)
-- [ ] Make sure all pages have Twitter Cards meta tags. [Learn how](resources/twitter-cards.md)
+- [ ] Make sure all images have appropriate alt text. [Learn more](resources/alt-text.md)
