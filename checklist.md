@@ -17,13 +17,14 @@ An internal checklist we use to ensure quality for our clients
 ## accesibility
 
 - [ ] Make sure all images have appropriate alt text. [Learn more](resources/alt-text.md)
+- [ ] Pass the WAWE web accessibility test. [WAWE](https://wave.webaim.org)
 
 ## css
 
-- [ ] Use Stylelint to check for any errors. [Tool](https://stylelint.io)
+- [ ] Use Stylelint to check for any errors. [Stylelint](https://stylelint.io)
 - [ ] Minify all css files and add the `.min` suffix. [Tool](https://github.com/ben-eb/cssnano)
 
 ## javascript
 
-- [ ] Use ESLint to check for any errors. [Tool](https://eslint.org)
+- [ ] Use ESLint to check for any errors. [ESLint](https://eslint.org)
 - [ ] Minify all javascript files and add the `.min` suffix. [Tool](https://github.com/mishoo/UglifyJS2)
