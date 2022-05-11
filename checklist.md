@@ -18,6 +18,10 @@ An internal checklist we use to ensure quality for our clients
 
 - [ ] Make sure all images have appropriate alt text. [Learn more](resources/alt-text.md)
 
+## css
+
+- [ ] Minify all css files and add the `.min` suffix. [Tool](https://github.com/ben-eb/cssnano)
+
 ## javascript
 
 - [ ] Minify all javascript files and add the `.min` suffix. [Tool](https://github.com/mishoo/UglifyJS2)
