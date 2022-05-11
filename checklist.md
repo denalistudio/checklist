@@ -17,3 +17,7 @@ An internal checklist we use to ensure quality for our clients
 ## accesibility
 
 - [ ] Make sure all images have appropriate alt text. [Learn more](resources/alt-text.md)
+
+## javascript
+
+- [ ] Minify all javascript files. 
