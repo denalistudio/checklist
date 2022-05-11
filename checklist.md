@@ -19,12 +19,12 @@ An internal checklist we use to ensure quality for our clients
 - [ ] Make sure all images have appropriate alt text. [Learn more](resources/alt-text.md)
 - [ ] Pass the WAWE web accessibility test. [WAWE](https://wave.webaim.org)
 
-## CSS
+## css
 
 - [ ] Use Stylelint to check for any errors. [Stylelint](https://stylelint.io)
 - [ ] Minify all css files and add the `.min` suffix. [Tool](https://github.com/ben-eb/cssnano)
 
-## JavaScript
+## javascript
 
 - [ ] Avoid any inline JavaScript in your HTML document.
 - [ ] Don't forget to add the `<noscript>` tag for users that turned off scripting in their browser. [Learn more](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/noscript)
