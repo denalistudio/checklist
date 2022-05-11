@@ -20,4 +20,4 @@ An internal checklist we use to ensure quality for our clients
 
 ## javascript
 
-- [ ] Minify all javascript files. 
+- [ ] Minify all javascript files and add the `.min` suffix. [Tool](https://github.com/mishoo/UglifyJS2)
