@@ -20,8 +20,10 @@ An internal checklist we use to ensure quality for our clients
 
 ## css
 
+- [ ] Use Stylelint to check for any errors. [Tool](https://stylelint.io)
 - [ ] Minify all css files and add the `.min` suffix. [Tool](https://github.com/ben-eb/cssnano)
 
 ## javascript
 
+- [ ] Use ESLint to check for any errors. [Tool](https://eslint.org)
 - [ ] Minify all javascript files and add the `.min` suffix. [Tool](https://github.com/mishoo/UglifyJS2)
