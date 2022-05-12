@@ -4,6 +4,7 @@ An internal checklist we use to ensure quality for our clients
 
 - [ ] The DOCTYPE is correctly declared as `<!DOCTYPE html>` and is present on all pages.
 - [ ] A `<title>` tag is present on all pages.
+- [ ] Use the W3C Validator to find out if you website is W3C compliant. [W3C Validator](https://validator.w3.org)
 
 ## head
 
